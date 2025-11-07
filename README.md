@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaheswerSunil
 - 👀 I’m interested in Machine learning and artificial intelligence
-- 🌱 I’m currently learning AI using pythong
+- 🌱 I’m currently learning AI using python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
